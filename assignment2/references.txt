@@ -1,0 +1,2 @@
+https://realpython.com/command-line-interfaces-python-argparse/
+https://stackoverflow.com/questions/1906717/how-to-split-an-integer-into-an-array-of-digits
